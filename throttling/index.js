@@ -7,7 +7,6 @@ const throttling = function (fn, delay) {
     let allowToCall = true;
     const context = this;
     const argv = [];
-    console.log('allowToCall',allowToCall);
 
     return function() {
         if(allowToCall){
@@ -20,4 +19,4 @@ const throttling = function (fn, delay) {
     }
 }
 
-const methodToBeUsed = throttling(doPerformExpensiveTask, 1000)
+const methodToBeUsed = throttling(doPerformExpensiveTask, 1000);

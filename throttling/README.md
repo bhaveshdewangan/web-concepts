@@ -1,4 +1,4 @@
-# Web Concepts #1 Throttling
+# Javascript Concepts #1 Throttling
 This small project contains a simple HTML and Javascript file.
 
 ### What is Throttling

@@ -1,4 +1,4 @@
-# Web Concepts #1 Debouncing
+# Javascript Concepts #1 Debouncing
 This small project contains a simple HTML and Javascript file.
 
 ### What is Debouncing
