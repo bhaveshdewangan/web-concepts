@@ -19,6 +19,10 @@ Capturing and bubbling allow us to implement one of most powerful event handling
 - The delegation may add CPU load, because the container-level handler reacts on events in any place of the container, no matter whether they interest us or not. But usually the load is negligible, so we don’t take it into account.
 
 
+See this site for more detail  [Event Delegation](https://javascript.info/event-delegation).
+
+
+
 
 
 
